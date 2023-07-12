@@ -18,9 +18,9 @@ Given a and b, determine their respective comparison points.<br/>
 a = [1, 2, 3]<br/>
 b = [3, 2, 1]<br/>
 
-&#x2022; For elements *0*, Bob is awarded a point because a[0] .
-&#x2022; For the equal elements a[1] and b[1], no points are earned.
-&#x2022; Finally, for elements 2, a[2] > b[2] so Alice receives a point.
+&#x2022; For elements *0*, Bob is awarded a point because a[0]. <br/>
+&#x2022; For the equal elements a[1] and b[1], no points are earned.<br/>
+&#x2022; Finally, for elements 2, a[2] > b[2] so Alice receives a point.<br/>
 
 The return array is [1, 1] with Alice's score first and Bob's second.
 
@@ -47,7 +47,7 @@ The second line contains 3 space-separated integers, b[0], b[1], and b[2], the r
 &#x2022; 1 ≤ a[i] ≤ 100<br/>
 &#x2022; 1 ≤ b[i] ≤ 100
 
-#### More Explanation:
+## More Explanation:
 
 In this example:
 
