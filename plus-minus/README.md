@@ -23,25 +23,25 @@ plusMinus has the following parameter(s):
 
 &#x2022; int arr[n]: an array of integers
 
-#### Print
+### Print
 Print the ratios of positive, negative and zero values in the array. Each value should be printed on a separate line with 6 digits after the decimal. The function should not return a value.
 
-#### Input Format
+### Input Format
 
 The first line contains an integer, n, the size of the array.<br/>
 The second line contains  space-separated integers that describe arr[n].
 
-#### Constraints
+### Constraints
 
 <b>0 < n <= 100</b><br/>
 <b>-100 <= arr[i] <= 100</b>
 
-#### Output Format
+### Output Format
 
 Print the following 3 lines, each to 6 decimals:
 
 <ol>
 <li>proportion of positive values</li>
 <li>proportion of negative values</li>
-<il>proportion of zeros</li>
+<li>proportion of zeros</li>
 </ol>
