@@ -27,5 +27,5 @@ The second line contains n space-separated integers, where each integer i descri
 
 ### Constraints
 
-&#x2022; 1 <= n <= 10⁵
+&#x2022; 1 <= n <= 10⁵<br/>
 &#x2022; 1 <= candles[i] <= 10⁷
