@@ -9,7 +9,7 @@ In the diagram below:
 - When a fruit falls from its tree, it lands d units of distance from its tree of origin along the x-axis. *A negative value of d means the fruit fell d units to the tree's left, and a positive value of d means it falls d units to the tree's right. *
 
 
-<img src="../Appleandorange.png" title="Apple And Orange Illustration">
+<img src="./Appleandorange.png" title="Apple And Orange Illustration">
 
 
 
