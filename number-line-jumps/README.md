@@ -6,7 +6,8 @@ You are choreographing a circus show with various animals. For one act, you are 
 - The second kangaroo starts at location x2 and moves at a rate of v2 meters per jump.
 You have to figure out a way to get both kangaroos at the same location at the same time as part of the show. If it is possible, return YES, otherwise return NO.
 
-Example
+### Example
+
 <code>
 x1 = 2
 v1 = 1
