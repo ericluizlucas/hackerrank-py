@@ -8,10 +8,10 @@ You have to figure out a way to get both kangaroos at the same location at the s
 
 ### Example
 
-<code>x1 = 2</code>
-<code>v1 = 1</code>
-<code>x2 = 1</code>
-<code>v2 = 2</code>
+<code>x1 = 2</code><br/>
+<code>v1 = 1</code><br/>
+<code>x2 = 1</code><br/>
+<code>v2 = 2</code><br/>
 
 After one jump, they are both at <code>x = 3</code>, (<code>x1 + v1 = 2 + 1</code>,<code>x2 + v2 = 1 + 2</code>), so the answer is YES.
 
