@@ -8,8 +8,7 @@ You have to figure out a way to get both kangaroos at the same location at the s
 
 ### Example
 
-<code>
-x1 = 2
+<code>x1 = 2
 v1 = 1
 x2 = 1
 v2 = 2
